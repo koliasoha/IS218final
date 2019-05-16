@@ -1,5 +1,6 @@
 # is218final
 To run the faq project:
+
 1, git clone https://github.com/koliasoha/is218final.git
 
 2, cd into is218final and run composer install
